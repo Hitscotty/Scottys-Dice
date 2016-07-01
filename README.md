@@ -1,4 +1,4 @@
-# Scotty's Dice
+# Code-To-Work: Scotty's Dice
 Scarne’s Dice is a turn-based dice game where players score points by rolling a die and then:
 
 + if they roll a 1, score no points and lose their turn
